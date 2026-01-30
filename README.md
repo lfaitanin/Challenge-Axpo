@@ -1,4 +1,4 @@
-# Coding Challenge
+# Coding Challenge - AXPO
 
 This project is a background worker service designed to extract, aggregate, and report power trading positions. It interacts with an external Power Service to retrieve trading data, aggregates the volumes by time period, and generates CSV reports.
 
