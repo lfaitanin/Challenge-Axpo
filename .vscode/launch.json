@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": ".NET Core Launch (PowerPosition.Worker)",
+      "type": "coreclr",
+      "request": "launch",
+      "preLaunchTask": "build",
+      "program": "${workspaceFolder}/src/Applications/PowerPosition.Worker/bin/Debug/net10.0/PowerPosition.Worker.dll",
+      "args": [],
+      "cwd": "${workspaceFolder}/src/Applications/PowerPosition.Worker",
+      "stopAtEntry": false,
+      "console": "integratedTerminal"
+    },
+  ]
+}
